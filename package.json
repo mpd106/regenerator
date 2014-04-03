@@ -29,7 +29,7 @@
   },
   "dependencies": {
     "commander": "~2.1.0",
-    "esprima": "git://github.com/ariya/esprima.git#harmony",
+    "esprima": "git+https://github.com/benjamn/esprima.git#async-await",
     "recast": "~0.6.2",
     "private": "~0.1.5",
     "defs": "~0.6.2"

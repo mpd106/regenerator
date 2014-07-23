@@ -29,7 +29,7 @@
   },
   "dependencies": {
     "commander": "~2.1.0",
-    "esprima": "git://github.com/mpd106/esprima.git#harmony-export-default",
+    "esprima": "git://github.com/mpd106/esprima.git#export-default-async-await",
     "recast": "~0.6.2",
     "private": "~0.1.5",
     "defs": "~0.6.2"
